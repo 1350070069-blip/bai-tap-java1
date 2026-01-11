@@ -17,6 +17,7 @@ public class Bai1 {
         System.out.println("Thuong = " + thuong);
     }
 }
+
 // De bai 2: Nhap vao 2 canh a, b. Tinh chu vi va dien tich hinh chu nhat
 public class Bai2 {
     public static void main(String[] args) {
@@ -31,6 +32,7 @@ public class Bai2 {
         System.out.println("Dien tich = " + dienTich);
     }
 }
+
 // De bai 3: Viet chuong trinh xep loai hoc luc
 public class Bai3 {
     public static void main(String[] args) {
@@ -48,6 +50,7 @@ public class Bai3 {
         }
     }
 }
+
 // De bai 4: Nhap vao so n, kiem tra xem n co phai so nguyen to khong
 public class Bai4 {
     public static void main(String[] args) {
@@ -73,6 +76,7 @@ public class Bai4 {
         }
     }
 }
+
 // De bai 5: Su dung cau truc while tinh tong cac so le tu 1 den n
 public class Bai5 {
     public static void main(String[] args) {
@@ -89,6 +93,7 @@ public class Bai5 {
         System.out.println("Tong cac so le = " + s);
     }
 }
+
 // De bai 6: Tinh tong cac so tu nhien tu 1 den n su dung vong lap for
 import java.util.Scanner;
 
@@ -108,6 +113,7 @@ public class Bai6 {
         System.out.println("Tong = " + tong);
     }
 }
+
 // De bai 7: Tinh tong cac so nguyen duong nho hon 12
 import java.util.Scanner;
 
@@ -125,6 +131,7 @@ public class Bai7 {
         System.out.println("Tong = " + tong);
     }
 }
+
 // De bai 8: Tinh tong cac so chan tu 1 den n
 import java.util.Scanner;
 
